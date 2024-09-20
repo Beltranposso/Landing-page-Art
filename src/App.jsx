@@ -25,7 +25,7 @@ import Hongo2 from './assets/ilovepdf_pages-to-jpg/Paintings subasta - Mushrooms
 
 import { img } from 'framer-motion/client';
 import { Button, Link, Modal } from "@nextui-org/react";
-import Header from './components/Navar'
+import Header from './components/navar'
 
 
 function App() {
