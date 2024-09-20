@@ -25,9 +25,9 @@ export default function Header() {
 
  
 
-      <NavbarContent className=" hidden   justify-between items-center   sm:flex  " >
+      <NavbarContent justify="center" className=" flex    justify-between items-center   sm:flex  " >
      
-      <div className=' text-2xl italic  sm:'>
+      <div className=' text-1xl italic  sm:'>
           <h1 className='font-[dancing-script]   text-red-400'>Nathalie Rose Russi Maldonado</h1>
         </div>
       
